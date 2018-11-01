@@ -21,7 +21,8 @@ public class DigestMD5 {
 	{
 		
 	}
-	
+
+
 	public String getMD5Str(String str) throws Exception
 	{
 		MessageDigest md = null;
